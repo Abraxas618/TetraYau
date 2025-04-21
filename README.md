@@ -6,6 +6,8 @@ Born from the TetraUnified Genesis Architecture (2025), TetraYau consolidates th
 
 ## 🛰 Core Modules
 
+https://ipfs.io/ipfs/bafkreiasrqitizdcgxprnxsxqn74w3hqkprilhtndvzzd3qjb3nkvphzgq
+
 | Module | Description |
 |:---|:---|
 | `tke.py` | Tetrahedral Key Exchange (TKE): Phase-locked hyperdimensional handshake. |
