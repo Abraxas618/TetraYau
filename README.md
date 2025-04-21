@@ -6,7 +6,8 @@ Born from the TetraUnified Genesis Architecture (2025), TetraYau consolidates th
 
 ## 🛰 Core Modules
 
-https://ipfs.io/ipfs/bafkreiasrqitizdcgxprnxsxqn74w3hqkprilhtndvzzd3qjb3nkvphzgq
+https://ipfs.io/ipfs/bafkreiasrqitizdcgxprnxsxqn74w3hqkprilhtndvzzd3qjb3nkvphzgq  TetraYau IPFS Link
+https://ipfs.io/ipfs/bafkreihgkcy6kddlvjruufuuojo6dl5ys4msckgnwvufezqnijqrirccya  TetraYau IPFS OTS Link
 
 | Module | Description |
 |:---|:---|
