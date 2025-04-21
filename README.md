@@ -13,6 +13,7 @@ Primary Sovereign Hash (SHAKE256, 512-bit) 1eb2d8bbf30d3dcffca63cae4f8295b3a42f3
 
 🌌 Hyperdimensional Sovereign Final Hash (Recursive + Cosmic Drift, 1024-bit) aa0f3e84d75a6c4d2b80aaf4faaa415c78a612b075a66069e53730ef7a45f14ccb5f55602f59943283c713208da9cb46968438e1bb36a2c086a444b8c790d01161b2ed563d6e94d0cf9c8d33de1f60ade7e2cb5cfe6fbd038e01d88d0d821bb77e8269ad46e264cef8477c3ab706176cc9388b9ff5e749be8b142550065b4603
 
+https://web.archive.org/web/20250421011024/https://github.com/Abraxas618/TetraYau
 
 | Module | Description |
 |:---|:---|
