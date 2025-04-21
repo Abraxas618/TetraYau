@@ -72,3 +72,83 @@ Example:
 
 ```bash
 python examples/tke_example.py
+
+**Citation:**
+
+Michael Tass MacDonald (Abraxas618). (2025). *TetraYau: Hyperdimensional Sovereign Cryptography Suite* (Version 1.3.0) [Software]. Zenodo. [https://doi.org/10.5281/zenodo.15253399](https://doi.org/10.5281/zenodo.15253399)
+
+# https://pypi.org/project/tetrayau/
+
+# 🚀 How to Install and Use TetraYau
+
+TetraYau is now available globally on PyPI.  
+Anyone can install it easily with `pip` and start building sovereign hyperdimensional cryptographic systems.
+
+---
+
+## 🛰 Step 1 — Install TetraYau
+
+Open your terminal or command prompt and run:
+
+```bash
+pip install tetrayau
+
+🛰 Step 2 — Verify Installation
+After installation, you can verify TetraYau is available
+pip show tetrayau
+It should display information about the installed package (version 1.3.0).
+
+🛰 Step 3 — Basic Usage
+You can now import and use TetraYau modules in your own Python programs.
+from tetrayau import TetrahedralKeyExchange, RecursiveTesseractHasher, QuantumLatticeEncryptor
+
+# TKE Example
+alice = TetrahedralKeyExchange()
+bob = TetrahedralKeyExchange()
+
+alice_public = alice.generate_public()
+bob_public = bob.generate_public()
+
+shared_key_alice = alice.derive_shared_key(bob_public)
+shared_key_bob = bob.derive_shared_key(alice_public)
+
+assert shared_key_alice == shared_key_bob
+print("✅ Secure Sovereign Key Exchange Successful")
+
+# RTH Example
+hasher = RecursiveTesseractHasher()
+sovereign_hash = hasher.hash("Sovereign Identity")
+print(f"Hyperdimensional Hash: {sovereign_hash}")
+
+# QIDL Example
+encryptor = QuantumLatticeEncryptor()
+ciphertext, salt = encryptor.encrypt("Sovereignty Begins Now")
+plaintext = encryptor.decrypt(ciphertext, salt)
+print(f"Decrypted Message: {plaintext}")
+
+✅ You are now using post-quantum sovereign cryptography live.
+
+🛰 Step 4 — Running the Example Scripts
+You can clone the full TetraYau repository to access complete examples:
+git clone https://github.com/Abraxas618/TetraYau.git
+cd TetraYau/examples
+
+Run any example:
+python tke_example.py
+python rth_example.py
+python qidl_example.py
+python ledger_example.py
+python hbb_example.py
+
+✅ Each script demonstrates live sovereign cryptographic operations.
+
+📚 Modules Available
+
+Module	Purpose
+tetrayau.tke	Tetrahedral Key Exchange (TKE)
+tetrayau.rth	Recursive Tesseract Hashing (RTH)
+tetrayau.qidl_encrypt	Quantum Isoca-Dodecahedral Lattice Encryption (QIDL)
+tetrayau.ledger	Sovereign Ledger Notarization
+tetrayau.hbb_blockchain	Hypercube-Based Sovereign Blockchain (HBB)
+
+
