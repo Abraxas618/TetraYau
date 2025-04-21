@@ -5,6 +5,8 @@ Welcome to the Sovereign Verification Protocol for **TetraYau v1.0**.
 
 This guide ensures that any sovereign developer, cryptographer, or historian can verify the authenticity and integrity of the TetraYau archive.
 
+Use IPFS Link or Orginal TetraYau-1.0.tar.gz to verify as .Zip changes hash
+IPFS bafkreiasrqitizdcgxprnxsxqn74w3hqkprilhtndvzzd3qjb3nkvphzgq.gz
 ---
 
 ## 🛰 Prerequisites
