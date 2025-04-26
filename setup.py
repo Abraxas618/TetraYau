@@ -6,7 +6,7 @@ setup(
     name='tetrayau',
     version='1.3.0',  # FINAL VERSION
     author='Michael Tass MacDonald (Abraxas618)',
-    author_email='your-email@example.com',  # (optional for PyPI, can omit if needed)
+
     description='TetraYau: Hyperdimensional Sovereign Cryptography Suite',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
@@ -33,4 +33,5 @@ setup(
     ],
     keywords='cryptography post-quantum sovereign hyperdimensional tesseract blockchain tetrahedral encryption',
     python_requires='>=3.8',
+    license='Apache-2.0',  # ✅ FIXED: Added explicit license field
 )
