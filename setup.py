@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tetrayau',
-    version='1.3.7',  # MUST bump to 1.3.2
+    version='2.0.0',  # MUST bump to 1.3.2
     author='Michael Tass MacDonald (Abraxas618)',
     description='TetraYau: Hyperdimensional Sovereign Cryptography Suite',
     long_description=open('README.md', encoding='utf-8').read(),
